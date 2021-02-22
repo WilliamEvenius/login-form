@@ -1,0 +1,15 @@
+.fancytextinput{
+    background-color: white;
+    height: 50px;
+    width: 400px;
+    display:flex;
+    margin: 15px 0;
+
+}
+.fancytextinput > input {
+    width: 100%;
+    border: none;
+    padding: 25px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}

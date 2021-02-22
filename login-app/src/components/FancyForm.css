@@ -1,0 +1,23 @@
+.fancyform {
+    width: 500px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.fancyform__title {
+    font-family: 'LatoWebHairline';
+    color: #00AFF0;
+    padding: 30px 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #34465d;
+}
+
+.fancyform__section {
+    min-height: 300px;
+    background-color: #fcfcfc;
+    justify-content: top;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}

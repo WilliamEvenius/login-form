@@ -1,0 +1,21 @@
+.fancybutton {
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+    border: 1px solid #cfcfcf;
+    background-color: #f6f6f6;
+    transition: background-color 0.1s;
+    cursor: pointer;
+}
+
+.fancybutton:hover {
+    background-color: #fefefe;
+}
+
+.fancybutton:active {
+    background-color: #efefef;
+}
+
+.fancybutton:focus {
+    outline: 0;
+}
